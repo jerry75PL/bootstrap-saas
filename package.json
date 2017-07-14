@@ -1,0 +1,29 @@
+{
+  "name": "saas",
+  "version": "1.0.0",
+  "description": "bootstrap-saas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test in progress ;-)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry75PL/bootstrap-saas.git"
+  },
+  "keywords": [
+    "saas",
+    "node.js",
+    "npm",
+    "gulp"
+  ],
+  "author": "JT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry75PL/bootstrap-saas/issues"
+  },
+  "homepage": "https://github.com/jerry75PL/bootstrap-saas#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
